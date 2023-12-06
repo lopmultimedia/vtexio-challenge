@@ -12,7 +12,7 @@ There will be 6 exercises (separated by folders) that will test your development
 
 - [Header](/01-header/header.md)
 - [Footer](/02-footer/footer.md)
-- [Text](/03/text/text.md)
+- [Text](/03-text/text.md)
 - [Banners](/04-banners/banners.md)
 - [Product Carousel](/05-product-slider/products-slider.md)
 - [Product Page](/06-product-page/product-page.md)
