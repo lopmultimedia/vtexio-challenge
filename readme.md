@@ -48,7 +48,9 @@ Before beginning the exercises, be sure to read the instructions provided for ea
 Within each folder, there will be a brief where the description and objective of the exercise will be explained to you. In each exercise there may be restrictions, so we recommend that you read the brief carefully.
 
 ## File delivery ✅
-When you finish the 6 proposed exercises, we ask you to send us an email to rrhh@lop.com.ar with the subject "VTEX IO Challenge" and your first and last name so we can review it.
+When you finish the 6 proposed exercises, you must upload them to a repository in your github account and share the link with us.
+
+For this we ask you to send us an email to rrhh@lop.com.ar with the subject "VTEX IO Challenge" and your name with the link to the repository.
 
 
 ## Author
